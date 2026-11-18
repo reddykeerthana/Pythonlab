@@ -1,0 +1,4 @@
+INFO: Program started
+WARNING: Low memory
+ERROR: File not found
+INFO: Program ended
